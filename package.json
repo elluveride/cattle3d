@@ -1,0 +1,14 @@
+{
+  "name": "robotics-team-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Attendance, robot task progress, behavior points and a leaderboard for a robotics team.",
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
